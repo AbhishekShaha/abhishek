@@ -13,7 +13,7 @@
   gh_user: AbhishekShaha
   repo: cloud-deploy
   img: /static/assets/img/landing/python.png
-  desc: 
+  desc: This was my university project, I deployed my dockerised application on aws and google cloud
 
 - name: Visualization using D3.js
   i18n: abhishek
@@ -21,4 +21,4 @@
   gh_user: AbhishekShaha
   repo: alcoholConsumption-dataSet
   img: /static/assets/img/landing/python.png
-  desc:
+  desc: Purpose of this project was to analyse & visualise alcohol consumption data.
