@@ -1,22 +1,30 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: CSV Parsing
+  i18n: abhishek
+  gh_user: AbhishekShaha
+  repo: csv-parsing
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This project is my project. I used Python and aws lambda function to deploy this
 
 - name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+  i18n: abhishek
+  gh_user: AbhishekShaha
+  repo: cloud-deploy
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: 
+
+- name: Python
+  i18n: abhishek
+  url: http://www.cloudforest.in/2018/02/visualize-data-using-python-libraries.html
+  gh_user: AbhishekShaha
+  repo: alcoholConsumption-dataSet
+  img: /static/assets/img/landing/python.png
+  desc:
 
 - name: Google
   i18n: google
-  url: https://google.com
+  
   img: /static/assets/img/landing/google.png
   desc: This is another project.
