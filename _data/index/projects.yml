@@ -8,23 +8,17 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I used Python and aws lambda function to deploy this
 
-- name: Python
+- name: Cloud Deployment
   i18n: abhishek
   gh_user: AbhishekShaha
   repo: cloud-deploy
   img: /static/assets/img/landing/python.png
   desc: 
 
-- name: Python
+- name: Visualization using D3.js
   i18n: abhishek
   url: http://www.cloudforest.in/2018/02/visualize-data-using-python-libraries.html
   gh_user: AbhishekShaha
   repo: alcoholConsumption-dataSet
   img: /static/assets/img/landing/python.png
   desc:
-
-- name: Google
-  i18n: google
-  
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
