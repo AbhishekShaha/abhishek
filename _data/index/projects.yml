@@ -5,14 +5,14 @@
   i18n: abhishek
   gh_user: AbhishekShaha
   repo: csv-parsing
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/lambda.png
   desc: This project is my project. I used Python and aws lambda function to deploy this
 
 - name: Cloud Deployment
   i18n: abhishek
   gh_user: AbhishekShaha
   repo: cloud-deploy
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/docker.png
   desc: This was my university project, I deployed my dockerised application on aws and google cloud
 
 - name: Visualization using D3.js
@@ -20,5 +20,5 @@
   url: http://www.cloudforest.in/2018/02/visualize-data-using-python-libraries.html
   gh_user: AbhishekShaha
   repo: alcoholConsumption-dataSet
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/d3.png
   desc: Purpose of this project was to analyse & visualise alcohol consumption data.
