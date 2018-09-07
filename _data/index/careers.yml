@@ -28,7 +28,7 @@
     detail: SysOps Engineer
     i18n: company_a_job
   icon: fa fa-cloud
-
+  
 - name:
     detail: Creazione Softwares
     i18n: company_b
@@ -43,7 +43,7 @@
     i18n: company_b_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: Post-Graduation
     i18n: company_b
   desc:
