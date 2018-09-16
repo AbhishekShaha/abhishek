@@ -22,3 +22,10 @@
   repo: alcoholConsumption-dataSet
   img: /static/assets/img/landing/d3.png
   desc: Purpose of this project was to analyse & visualise alcohol consumption data.
+  
+- name: Simple web crawler
+  i18n: abhishek
+  gh_user: AbhishekShaha
+  repo: web-crawler-python
+  img: /static/assets/img/landing/spider.png
+  desc: Simple web crawler using python.
