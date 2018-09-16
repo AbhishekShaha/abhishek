@@ -4,7 +4,7 @@ title:  "Simple web crawler using python"
 date:   2017-01-31
 desc: "Simple web crawler using python"
 keywords: "web crawler,python"
-categories: [Mac]
+categories: [Python]
 tags: [crawler]
 icon: icon-html
 ---
