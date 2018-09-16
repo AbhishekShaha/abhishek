@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Simple web crawler using python"
+date:   2017-01-31
+desc: "Simple web crawler using python"
+keywords: "web crawler,python"
+categories: [HTML]
+tags: [crawler]
+icon: icon-html
+---
+
 # Simple Web Crawler
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
