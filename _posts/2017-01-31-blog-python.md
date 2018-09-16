@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple web crawler using python"
-date:   2017-01-31
+date:   2016-09-16
 desc: "Simple web crawler using python"
 keywords: "web crawler,python"
 categories: [Python]
