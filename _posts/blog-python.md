@@ -7,6 +7,7 @@ keywords: "web crawler,python"
 categories: [Python]
 tags: [crawler]
 icon: icon-html
+
 ---
 
 # Simple Web Crawler
